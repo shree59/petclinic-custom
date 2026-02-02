@@ -1,3 +1,5 @@
+// Customized by Vankalapati Shree Durga Bhavani
+// Purpose: Learning Spring Boot architecture and demos
 /*
  * Copyright 2012-2025 the original author or authors.
  *
