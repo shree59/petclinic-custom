@@ -1,3 +1,62 @@
+
+# PetClinic Custom – Spring Boot Backend Project
+
+Developed and customized by **Shree Durga Bhavani Vankalapati** as a hands-on
+Spring Boot backend learning and experimentation project.
+
+This repository demonstrates my practical understanding of real-world
+Spring Boot application architecture using an industry-recognized reference
+application as a base.
+
+---
+
+## What I Did in This Project
+
+- Customized the Spring Boot application entry point
+- Added author documentation and project ownership notes
+- Studied and modified the Spring Boot startup lifecycle
+- Analyzed real-world layered architecture:
+  - Controllers
+  - Services
+  - Repositories
+- Used this project to understand how enterprise Spring applications
+  are structured and initialized
+- Preparing further backend enhancements and REST API customizations
+
+---
+
+## Why I Used This Approach
+
+Instead of creating a small toy application, I intentionally chose a
+production-grade reference project to focus on:
+
+- Clean architecture
+- Industry best practices
+- Readable and maintainable code structure
+- How real backend teams organize Spring Boot applications
+
+This approach reflects how backend engineers typically learn and extend
+existing enterprise systems.
+
+---
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Maven
+- Embedded / External Database Support
+
+---
+
+## Attribution
+
+This project is based on the official **Spring PetClinic** sample application
+maintained by the Spring team.  
+All original code is credited to the respective authors and is used here
+strictly for learning and extension purposes.
 # This repository is a fork of Spring PetClinic, used for learning and
 # experimentation with Spring Boot and backend development.
 
